@@ -1,13 +1,7 @@
 public class SommaNNum {
     public static void main(String[] args) {
-        int N = 100;
+        int N = Integer.parseInt(args[0]); // Legge il numero N dalla riga di comando
         int somma = 0;
-
-        int array [] = new int[3];
-
-        for (int i = 0; i < 3; i++){
-            array[i] = 0;
-        }
 
         for (int i = 1; i <= N; i++) {
             somma += i;
