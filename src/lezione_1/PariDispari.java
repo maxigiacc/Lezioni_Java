@@ -6,7 +6,8 @@ public class PariDispari{
             System.out.println(numero + " è pari");
         } else {
             System.out.println(numero + " è dispari");
-        }
+        } 
+            
     }
 
     public static boolean isPari(int n) {

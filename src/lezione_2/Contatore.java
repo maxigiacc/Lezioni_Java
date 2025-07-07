@@ -1,25 +1,27 @@
 public class Contatore {
-    private int valore = 0;
+    private int valore;
     
+    public Contatore() {
+        this.valore = 0;
+    }
+
     public void incrementa(){ 
-        valore++; 
+        this.valore++; 
     }
     
     public void azzera() {
-        valore = 0;
+        this.valore = 0;
     } 
     
     public int getValore() {
-        return valore; 
+        return this.valore; 
     } 
 
     public static void main(String[] args) { 
         Contatore c = new Contatore(); 
         c.incrementa(); 
-        System.out.println(c.getValore()); 
-        
-    } 
-
+        System.out.println(c.getValore());
+    }
 }
 
 
