@@ -8,6 +8,7 @@ public class Es5 {
             for (int i = 1; i <= 10; i++) {
                 writer.write("Riga " + i);
                 writer.newLine();
+                writer.close();
             }
             System.out.println("Scrittura completata.");
         } catch (IOException e) {

@@ -16,9 +16,8 @@ public class Es2 {
         }
 
         // Cerca nome
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Inserisci nome da cercare: ");
-        String nome = sc.nextLine();
+        String nome = args[0];
+        System.out.print("Nome da cercare inserito: " + nome);
         String numero = rubrica.get(nome);
         if (numero != null)
             System.out.println("Numero di " + nome + ": " + numero);
