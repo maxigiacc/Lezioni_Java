@@ -1,5 +1,3 @@
-package lezione_6;
-
 import java.text.NumberFormat;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
