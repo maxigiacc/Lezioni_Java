@@ -1,0 +1,23 @@
+RISORSE AVANZATE PER JAVA
+
+=== LIBRI ===
+1. Effective Java - Joshua Bloch
+2. Java Concurrency in Practice - Brian Goetz
+3. Clean Code - Robert C. Martin (non specifico per Java ma molto utile)
+4. Java Performance: The Definitive Guide - Scott Oaks
+5. Modern Java in Action - Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
+
+=== CORSI YOUTUBE ===
+1. Java Brains - [https://www.youtube.com/user/koushks]
+2. Amigoscode - Java Advanced Topics [https://www.youtube.com/c/amigoscode]
+3. Telusko - Java Full Course [https://www.youtube.com/user/javaboynavin]
+4. Bro Code - Java Intermediate/Advanced [https://www.youtube.com/c/BroCodez]
+
+=== CORSI ONLINE ===
+1. Udemy - "Java Multithreading, Concurrency & Performance Optimization"
+2. Coursera - "Parallel, Concurrent, and Distributed Programming in Java" (Rice University)
+3. Pluralsight - "Advanced Java Programming"
+4. JetBrains Academy - Java Developer Track (focus anche su progetti pratici)
+5. Educative.io - "Grokking the Java Interview" (ottimo anche per ripasso avanzato)
+
+Consigli: pratica costante, contributi open-source e partecipazione a progetti reali aumentano l'apprendimento.
